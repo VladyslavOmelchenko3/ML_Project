@@ -19,5 +19,5 @@ These are results for both Random Forest and k-Nearest Neighbours classifiers:
 You can run my project by typing this in terminal:
 
 ```python
-git clone https://github.com/VladyslavOmelchenko3/ML_Project/blob/main/ML_Project.ipynb
+git clone https://github.com/VladyslavOmelchenko3/ML_Project.git
 ```
